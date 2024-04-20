@@ -1,0 +1,43 @@
+.main-content {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.about-section {
+  text-align: center;
+}
+
+.title, .subtitle, .info-title {
+  color: #333;
+}
+
+.description {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.description, .info {
+  line-height: 1.6;
+  text-align: left;
+}
+
+.logo, .student-image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+}
+
+.image-caption {
+  font-style: italic;
+  text-align: right;
+}
+
+.technologies-used {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.technologies {
+  list-style: none;
+}
